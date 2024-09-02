@@ -1,5 +1,6 @@
 package com.sa.DTO;
 
+
 public class RoleDto {
 
 	private String username;
